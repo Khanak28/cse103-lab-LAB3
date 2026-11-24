@@ -1,4 +1,5 @@
 # Setup Guide
+
 ## Prerequisites
 - Python 3.8 or higher
 - Git 2.x or higher
